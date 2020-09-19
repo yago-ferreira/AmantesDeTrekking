@@ -1,4 +1,4 @@
-# AmentesDeTrekking
+# AmantesDeTrekking
 Site que desenvolvi utilizando recurso Parallax CSS3
 
 Qual inteção desse projeto?
